@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <!-- Gold House / Arch Frame -->
+  <path d="M35 66V30L60 11L85 30V66" stroke="#C6952B" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Gold Quran Book Spine & Cover -->
+  <rect x="49" y="29" width="22" height="34" rx="2" fill="#E8BA4A" stroke="#C6952B" stroke-width="1.5"/>
+  <rect x="49" y="29" width="5.5" height="34" rx="1" fill="#C6952B"/>
+  <circle cx="51.75" cy="36" r="1.1" fill="#FFF8E7"/>
+  <circle cx="51.75" cy="46" r="1.1" fill="#FFF8E7"/>
+  <circle cx="51.75" cy="56" r="1.1" fill="#FFF8E7"/>
+  <!-- Book Inner Dark Green Medallion -->
+  <rect x="56.5" y="32" width="12.5" height="28" rx="1" fill="#FFFFFF" fill-opacity="0.9"/>
+  <path d="M62.75 33.5C64 38 66.5 40.5 68 46C66.5 51.5 64 54 62.75 58.5C61.5 54 59 51.5 57.5 46C59 40.5 61.5 38 62.75 33.5Z" fill="#173E35"/>
+  <!-- 8-point Star Center -->
+  <path d="M62.75 41.2L64.1 44.1L67.2 44.5L65 46.8L65.6 49.9L62.75 48.3L59.9 49.9L60.5 46.8L58.3 44.5L61.4 44.1L62.75 41.2Z" fill="#E8BA4A"/>
+  <circle cx="62.75" cy="46" r="1.5" fill="#FFF8E7"/>
+  <!-- Open Quran / Rehal Stand (Dark Green) -->
+  <!-- Top open pages -->
+  <path d="M22 65C36 66 50 72 60 83C70 72 84 66 98 65L103 73C87 74 72 80 60 91C48 80 33 74 17 73L22 65Z" fill="#173E35"/>
+  <!-- Lower open pages -->
+  <path d="M15 76C32 77 48 83 60 94C72 83 88 77 105 76L111 86C91 87 74 93 60 101C46 93 29 87 9 86L15 76Z" fill="#173E35"/>
+  <!-- Rehal Stand Legs -->
+  <path d="M60 95C49 95 36 102 25 112C23.5 113.5 25 116 27.5 115C38 110 49 103 60 99C71 103 82 110 92.5 115C95 116 96.5 113.5 95 112C84 102 71 95 60 95Z" fill="#173E35"/>
+</svg>

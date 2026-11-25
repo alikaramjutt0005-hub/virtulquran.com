@@ -1,0 +1,9 @@
+{
+  "name": "virtulquran-com",
+  "version": "1.0.0",
+  "description": "Virtual Quran - Online Quran Classes & Free Islamic Learning Resources",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
